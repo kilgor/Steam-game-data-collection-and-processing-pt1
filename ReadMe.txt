@@ -313,7 +313,8 @@ making it easier to process similarly to other data frames.
 
 •	Daily Changes: New columns are added to reflect daily changes in copies sold, revenue, reviews, and outstanding wishlist.
 
-•	Final Output: After processing the data, individual gameinfo.csv files are saved for each game. All game data is then consolidated into a massive df_steamgame.csv, which contains the combined data for all games.
+•	Final Output: After processing the data, individual gameinfo.csv files are saved for each game. All game data is then consolidated into a massive df_steamgame.csv, 
+which contains the combined data for all games.
 Summary Files
 
 •	game_info_summary.csv: Contains basic metadata for each game, including the folder location and processed file paths.
