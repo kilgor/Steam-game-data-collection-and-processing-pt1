@@ -1,0 +1,1 @@
+data from external resources
